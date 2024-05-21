@@ -1,6 +1,5 @@
-
 export const getAllAbrigos = async()=>{
-    let res = await fetch("http://localhost:5411/abrigos")
+    let res = await fetch("http://172.16.101.146:5420/abrigo")
     let data = await res.json();
     let dataUpdate = [];
     data.forEach(val => {

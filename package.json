@@ -1,5 +1,17 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "type": "module",
+  "name": "proyectoweb",
+  "version": "1.0.0",
+  "description": "[Funcionalidad Escritorio parte 1](https://youtu.be/7c4iMj8ZmJw)",
+  "main": "js/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

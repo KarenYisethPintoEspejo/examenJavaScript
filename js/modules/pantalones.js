@@ -1,5 +1,5 @@
 export const getAllPantalones = async()=>{
-    let res = await fetch("http://localhost:5414/pantalones")
+    let res = await fetch("http://localhost:5416/pantalones")
     let data = await res.json();
     let dataUpdate = [];
     data.forEach(val => {
