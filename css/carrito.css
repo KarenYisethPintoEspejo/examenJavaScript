@@ -127,14 +127,14 @@ aside a {
   }
 
   .product-image img{
-    width: 80%;
+    width: 60%;
     height: 80%;
     background-color: var(--color-ternario);
     margin: -3px 18px 10px;
   }
 
   .product-card__2 .product-image img{
-    width: 88%;
+    width: 68%;
     height: 70%;
     background-color: var(--color-ternario);
     margin: -3px 18px 10px;
@@ -142,14 +142,14 @@ aside a {
 
 
   .product-image2 img{
-    width: 80%;
+    width: 60%;
     height: 60%;
     background-color: var(--color-ternario);
     margin: -2px 18px 10px;
   }
 
   .product-image3 img{
-    width: 80%;
+    width: 60%;
     height: 84%;
     background-color: var(--color-ternario);
     margin: 2px 18px 10px;
@@ -212,10 +212,10 @@ aside a {
     font-size: 20px;
     grid-template-columns: repeat(6, 1fr);
     border: 5px solid var(--color-secundary);
-    margin-top: 469px;
+    margin-top: 585px;
     background-color: var(--color-secundary);
     padding: 0px;
-    width: 70%;
+    width: 71.5%;
     height: 90px;
     gap: 20px;
     border-radius: 0px 0px 40px 40px;
@@ -240,6 +240,9 @@ aside a {
 .fin button:hover{
   color: var(--color-primary);
 }
+
+
+
 
 .fin_2{
     justify-content: center;
